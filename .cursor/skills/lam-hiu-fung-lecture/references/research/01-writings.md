@@ -1,6 +1,8 @@
 # 01 — Writings and systematic teaching
 
-Credibility: slide sentences that `pdftotext` recovered are first-hand teaching artifacts (PowerPoint author: Ir Prof Alan Lam, 23 Aug 2026). The 24 May 2026 book is also his, and he writes that it was completed on Poffices.ai. Treat book anecdotes and decorative formulas as the expanded layer. Web bios are second-hand except where they quote him.
+Corpus: lecture skill only. Slide sentences that `pdftotext` recovered are first-hand teaching artifacts (PowerPoint author: Ir Prof Alan Lam, 23 Aug 2026). The 24 May 2026 book is also his, and the author page says it was completed on Poffices.ai. Treat book anecdotes and decorative formulas as the expanded layer, below slide sentences.
+
+Out of corpus, on purpose: Gravity press releases, the 18 March 2023 investee list, LinkedIn, and CUHK/LSCM web bios. Those live in `lam-hiu-fung-pre-lecture`. Do not paste them back to fill a gap. The author page does say he joined Gravity Capital Partners in 2021 and "now is CEO." That sentence stays because it is in the book. It is biography, not a portfolio and not a four-point job description.
 
 No Zhihu, WeChat official accounts, or Baidu Baike.
 
@@ -124,6 +126,9 @@ Book ch.11 adds: write the executive summary last; angels read passion and innov
 - His own answer to "which stage would you buy?"
 - A criticism of other investors.
 - Spoken RTHK transcripts.
+- The 31 December 2023 CEO brief (source, support, train, return). That sentence is not in these extracts.
+- The six companies presented at the 18 March 2023 Gravity gathering.
+- Any role change after the 23 August 2026 decks. Later public posts are the other skill.
 
 ## Terms that are his in this corpus
 
