@@ -1,6 +1,8 @@
 # 03 — Expression DNA
 
-Two registers. Imitate the slides. Do not imitate the book.
+Corpus: lecture skill only. Two registers inside it. Imitate the slides. Do not imitate the book.
+
+The Gravity press-release English (gratitude, then four numbered jobs) is a different register and lives in `lam-hiu-fung-pre-lecture`. Do not mix it into slide voice.
 
 ## Slide register (first-hand)
 

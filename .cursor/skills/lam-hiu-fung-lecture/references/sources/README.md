@@ -1,5 +1,7 @@
 # Local lecture corpus
 
+This folder belongs to `lam-hiu-fung-lecture` only. It is LN01–LN12 plus the 24 May 2026 *Startup Exploration* extract. It is not a source for `lam-hiu-fung-pre-lecture`. The router at `lam-hiu-fung-perspective` does not keep a copy.
+
 Extracted with poppler `pdftotext -layout` from the PDFs at the repository root. The PDFs are not copied here.
 
 | Extract | PDF | What survived extraction |
@@ -18,4 +20,4 @@ Extracted with poppler `pdftotext -layout` from the PDFs at the repository root.
 | `LN11-Business Plan for Startup-V1.md` | LN11 | Titles. Use the book chapter only as the expanded layer. |
 | `LN12-Startup Pitch Deck-V1.md` | LN12 | Traditional / storytelling / Alan’s Scenario-based Framework; One Second Theorem; Zero Mistake Theorem; NerOcean and Meat the Next cases. |
 
-Weight: slide text that actually extracted > book prose (Poffices-assisted) > web bios. Diagram-only slides are cited by title, not invented.
+Weight inside this skill: slide text that actually extracted > book prose (Poffices-assisted). Diagram-only slides are cited by title, not invented. Web bios are not a third tier here. They are out of corpus.
